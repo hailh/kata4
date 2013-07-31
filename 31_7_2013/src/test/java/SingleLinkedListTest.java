@@ -1,5 +1,8 @@
 import org.junit.Test;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import static junit.framework.Assert.assertTrue;
 
 /**
@@ -15,5 +18,16 @@ public class SingleLinkedListTest {
     public void getSizeOfSingleLinkedListTest(){
         SingleLinkedList linkedList = new SingleLinkedList();
         assertTrue(linkedList.size() == 0);
+    }
+
+    @Test
+    public void insertAfterOneNodeOfSingleLinkedListTest(){
+        List<Object> list = new ArrayList<Object>();
+        list.add(0);
+        list.add(1);
+        list.add(3);
+        SingleLinkedList linkedList = new SingleLinkedList(list);
+        linkedList.insertAfter(1, 2);
+        assertTrue(linkedList.size() == 4);
     }
 }

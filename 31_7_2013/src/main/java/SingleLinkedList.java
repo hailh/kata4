@@ -21,4 +21,8 @@ public class SingleLinkedList {
     public int size() {
         return list.size();
     }
+
+    public void insertAfter(int node, int object) {
+
+    }
 }

@@ -70,9 +70,10 @@
       <file leaf-file-name="SingleLinkedListTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SingleLinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="24" selection-start="302" selection-end="302" vertical-scroll-proportion="0.4257603">
+            <state line="30" column="41" selection-start="823" selection-end="823" vertical-scroll-proportion="0.72629696">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#603#611#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,7 +82,7 @@
       <file leaf-file-name="SingleLinkedList.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="26" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0">
+            <state line="25" column="0" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,8 +101,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/SingleLinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/SingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SingleLinkedListTest.java" />
       </list>
     </option>
   </component>
@@ -252,7 +253,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SingleLinkedListTest.getSizeOfSingleLinkedListTest">
+  <component name="RunManager" selected="JUnit.SingleLinkedListTest">
     <configuration default="false" name="SingleLinkedListTest.getSizeOfSingleLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="31_7_2013" />
@@ -262,6 +263,29 @@
       <option name="MAIN_CLASS_NAME" value="SingleLinkedListTest" />
       <option name="METHOD_NAME" value="getSizeOfSingleLinkedListTest" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SingleLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="31_7_2013" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SingleLinkedListTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -396,8 +420,9 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JUnit.SingleLinkedListTest.getSizeOfSingleLinkedListTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SingleLinkedListTest" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -509,7 +534,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="26" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0">
+        <state line="25" column="0" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -518,9 +543,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SingleLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="302" selection-end="302" vertical-scroll-proportion="0.4257603">
+        <state line="30" column="41" selection-start="823" selection-end="823" vertical-scroll-proportion="0.72629696">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#603#611#0" expanded="true" />
           </folding>
         </state>
       </provider>
