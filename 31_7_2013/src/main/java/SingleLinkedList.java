@@ -23,6 +23,11 @@ public class SingleLinkedList {
     }
 
     public void insertAfter(int node, int object) {
-
+        List<Object> temp = new ArrayList<Object>();
+        for(int i = 0; i < size(); i++){
+            temp.add(list.get(0));
+            if(i == node) temp.add(object);
+        }
+        list = temp;
     }
 }
