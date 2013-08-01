@@ -70,6 +70,6 @@ public class SingleLinkedList {
     }
 
     public void append(Object object) {
-
+        list.add(object);
     }
 }
