@@ -49,6 +49,6 @@ public class SingleLinkedListTest {
         list.add(1);
         list.add(2);
         SingleLinkedList linkedList = new SingleLinkedList(list);
-        assertTrue(linkedList.first() == 0);
+        assertTrue(Integer.parseInt(linkedList.first().toString()) == 0);
     }
 }

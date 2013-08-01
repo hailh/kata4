@@ -40,7 +40,8 @@ public class SingleLinkedList {
         list = temp;
     }
 
-    public int first() {
-        return -1;
+    public Object first() {
+        if(!list.isEmpty()) return list.get(0);
+        return null;
     }
 }
