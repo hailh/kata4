@@ -32,6 +32,11 @@ public class SingleLinkedList {
     }
 
     public void delete(int node) {
-
+        List<Object> temp = new ArrayList<Object>();
+        for(int i = 0; i < size(); i++){
+            if(i == node) continue;
+            temp.add(list.get(0));
+        }
+        list = temp;
     }
 }
