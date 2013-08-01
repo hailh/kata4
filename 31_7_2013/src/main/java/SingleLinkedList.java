@@ -61,4 +61,8 @@ public class SingleLinkedList {
         if(node + 1 <= size()) return list.get(node + 1);
         return null;
     }
+
+    public Object find(Object object) {
+        return null;
+    }
 }
