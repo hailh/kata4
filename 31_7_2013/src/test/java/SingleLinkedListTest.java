@@ -71,4 +71,14 @@ public class SingleLinkedListTest {
         SingleLinkedList linkedList = new SingleLinkedList(list);
         assertTrue(Integer.parseInt(linkedList.before(1).toString()) == 0);
     }
+
+    @Test
+    public void getAfterNodeOfSingleLinkedListTest(){
+        List<Object> list = new ArrayList<Object>();
+        list.add(0);
+        list.add(1);
+        list.add(2);
+        SingleLinkedList linkedList = new SingleLinkedList(list);
+        assertTrue(Integer.parseInt(linkedList.after(1).toString()) == 2);
+    }
 }

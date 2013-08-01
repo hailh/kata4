@@ -55,4 +55,8 @@ public class SingleLinkedList {
         if(node - 1 >= 0) return list.get(node - 1);
         return null;
     }
+
+    public Object after(int node) {
+        return null;
+    }
 }
