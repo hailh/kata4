@@ -68,4 +68,8 @@ public class SingleLinkedList {
         }
         return null;
     }
+
+    public void append(Object object) {
+
+    }
 }
