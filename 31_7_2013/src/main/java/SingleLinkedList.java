@@ -30,4 +30,8 @@ public class SingleLinkedList {
         }
         list = temp;
     }
+
+    public void delete(int node) {
+
+    }
 }
