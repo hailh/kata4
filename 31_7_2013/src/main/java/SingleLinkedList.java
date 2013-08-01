@@ -46,6 +46,7 @@ public class SingleLinkedList {
     }
 
     public Object last() {
+        if(!list.isEmpty()) return list.get(size() - 1);
         return null;
     }
 
