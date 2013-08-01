@@ -51,6 +51,8 @@ public class SingleLinkedList {
     }
 
     public Object before(int node) {
+        if(list.isEmpty()) return null;
+        if(node - 1 >= 0) return list.get(node - 1);
         return null;
     }
 }
