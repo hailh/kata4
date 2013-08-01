@@ -50,4 +50,7 @@ public class SingleLinkedList {
         return null;
     }
 
+    public Object before(int node) {
+        return null;
+    }
 }
