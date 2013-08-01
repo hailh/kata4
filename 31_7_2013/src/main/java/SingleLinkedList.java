@@ -39,4 +39,8 @@ public class SingleLinkedList {
         }
         list = temp;
     }
+
+    public int first() {
+        return -1;
+    }
 }
