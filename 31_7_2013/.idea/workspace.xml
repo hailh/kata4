@@ -61,7 +61,7 @@
       <file leaf-file-name="SingleLinkedListTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SingleLinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="23" selection-start="3061" selection-end="3061" vertical-scroll-proportion="0.69588554">
+            <state line="112" column="23" selection-start="3420" selection-end="3420" vertical-scroll-proportion="0.72629696">
               <folding />
             </state>
           </provider>
@@ -70,7 +70,7 @@
       <file leaf-file-name="SingleLinkedList.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="25" selection-start="1749" selection-end="1749" vertical-scroll-proportion="0.0">
+            <state line="76" column="0" selection-start="1802" selection-end="1802" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#583#591#0" expanded="true" />
@@ -532,7 +532,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="25" selection-start="1749" selection-end="1749" vertical-scroll-proportion="0.0">
+        <state line="76" column="0" selection-start="1802" selection-end="1802" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#583#591#0" expanded="true" />
@@ -543,7 +543,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SingleLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="23" selection-start="3061" selection-end="3061" vertical-scroll-proportion="0.69588554">
+        <state line="112" column="23" selection-start="3420" selection-end="3420" vertical-scroll-proportion="0.72629696">
           <folding />
         </state>
       </provider>

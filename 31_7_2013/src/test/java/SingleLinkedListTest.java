@@ -102,4 +102,15 @@ public class SingleLinkedListTest {
         linkedList.append(3);
         assertTrue(Integer.parseInt(linkedList.last().toString()) == 3);
     }
+
+    @Test
+    public void insertFirstNodeOfSingleLinkedListTest(){
+        List<Object> list = new ArrayList<Object>();
+        list.add(0);
+        list.add(1);
+        list.add(2);
+        SingleLinkedList linkedList = new SingleLinkedList(list);
+        linkedList.insertFirst(-1);
+        assertTrue(Integer.parseInt(linkedList.first().toString()) == -1);
+    }
 }
