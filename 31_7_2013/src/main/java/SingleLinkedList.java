@@ -44,4 +44,9 @@ public class SingleLinkedList {
         if(!list.isEmpty()) return list.get(0);
         return null;
     }
+
+    public Object last() {
+        return null;
+    }
+
 }
