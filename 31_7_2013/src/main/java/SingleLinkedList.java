@@ -63,6 +63,9 @@ public class SingleLinkedList {
     }
 
     public Object find(Object object) {
+        for(Object obj : list){
+            if(obj.equals(object)) return obj;
+        }
         return null;
     }
 }
