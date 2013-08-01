@@ -70,11 +70,12 @@
       <file leaf-file-name="SingleLinkedList.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="0" selection-start="1802" selection-end="1802" vertical-scroll-proportion="0.0">
+            <state line="79" column="34" selection-start="1956" selection-end="1956" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#583#591#0" expanded="true" />
                 <element signature="e#829#837#0" expanded="true" />
+                <element signature="e#1843#1851#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -532,11 +533,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="0" selection-start="1802" selection-end="1802" vertical-scroll-proportion="0.0">
+        <state line="79" column="34" selection-start="1956" selection-end="1956" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#583#591#0" expanded="true" />
             <element signature="e#829#837#0" expanded="true" />
+            <element signature="e#1843#1851#0" expanded="true" />
           </folding>
         </state>
       </provider>

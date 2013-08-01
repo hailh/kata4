@@ -25,7 +25,7 @@ public class SingleLinkedList {
     public void insertAfter(int node, int object) {
         List<Object> temp = new ArrayList<Object>();
         for(int i = 0; i < size(); i++){
-            temp.add(list.get(0));
+            temp.add(list.get(i));
             if(i == node) temp.add(object);
         }
         list = temp;
@@ -35,7 +35,7 @@ public class SingleLinkedList {
         List<Object> temp = new ArrayList<Object>();
         for(int i = 0; i < size(); i++){
             if(i == node) continue;
-            temp.add(list.get(0));
+            temp.add(list.get(i));
         }
         list = temp;
     }
@@ -74,6 +74,11 @@ public class SingleLinkedList {
     }
 
     public void insertFirst(Object object) {
-
+        List<Object> temp = new ArrayList<Object>();
+        temp.add(object);
+        for(int i = 0; i < size(); i++){
+            temp.add(list.get(i));
+        }
+        list = temp;
     }
 }
